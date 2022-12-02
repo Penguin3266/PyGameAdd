@@ -1,0 +1,29 @@
+import pygame
+
+init = pygame.display.init
+quit = pygame.display.quit
+get_init = pygame.display.get_init
+set_mode = pygame.display.set_mode
+get_surface = pygame.display.get_surface
+flip = pygame.display.flip
+update = pygame.display.update
+get_driver = pygame.display.get_driver
+Info = pygame.display.Info
+get_wm_info = pygame.display.get_wm_info
+get_desktop_sizes = pygame.display.get_desktop_sizes
+list_modes = pygame.display.list_modes
+mode_ok = pygame.display.mode_ok
+gl_get_attribute = pygame.display.gl_get_attribute
+gl_set_attribute = pygame.display.gl_set_attribute
+get_active = pygame.display.get_active
+iconify = pygame.display.iconify
+toggle_fullscreen = pygame.display.toggle_fullscreen
+set_gamma = pygame.display.set_gamma
+set_gamma_ramp = pygame.display.set_gamma_ramp
+set_icon = pygame.display.set_icon
+set_caption = pygame.display.set_caption
+get_caption = pygame.display.get_caption
+set_palette = pygame.display.set_palette
+get_num_displays = pygame.display.get_num_displays
+get_window_size = pygame.display.get_window_size
+get_allow_screensaver = pygame.display.get_allow_screensaver
