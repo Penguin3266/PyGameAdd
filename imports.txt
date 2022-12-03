@@ -1,0 +1,6 @@
+import pygame
+from PyGameAdd import image
+from PyGameAdd import mouse
+from PyGameAdd import display
+from PyGameAdd import font
+from PyGameAdd import time
